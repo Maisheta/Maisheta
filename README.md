@@ -1,4 +1,4 @@
-                                               # Hi 👋, I'm Mai Sheta
+#                            Hi 👋, I'm Mai Sheta
 
 ## 👩‍💻 About Me  
 🎓 Computer Science student at the Faculty of Computer and Information Science  
