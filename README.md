@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Mai Sheta
 
-<!--
-**Maisheta/Maisheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **About Me**  
+🎓 Computer Science student at the Faculty of Computer and Information Science  
+📱 Passionate about Mobile App Development and UI/UX Design  
+🌱 Currently learning Flutter, Firebase, and improving UI/UX skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills & Tools**  
+- Flutter / Dart  
+- Firebase  
+- Figma  
+- Git & GitHub  
+- UI/UX Design Principles  
+
+---
+
+📩 **Connect with me:**  
+📧 [maixxxx@gmail.com](mailto:maysheta5@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/mai-sheta)  
+💬 [WhatsApp](https://wa.me/201143496764)  
+🐙 [GitHub](https://github.com/Maisheta)
