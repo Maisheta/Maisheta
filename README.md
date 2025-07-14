@@ -23,9 +23,19 @@
 
 ---
 
-## 📩 Connect with me:
+## 📩 Connect with me
 
-- 📧 [maisheta5@gmail.com](mailto:maysheta5@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/mai-sheta)  
-- 💬 [WhatsApp](https://wa.me/201143496764)  
-- 🐙 [GitHub](https://github.com/maisheta)
+<p align="center">
+  <a href="mailto:maysheta5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/mai-sheta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201143496764" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/maisheta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
