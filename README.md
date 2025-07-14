@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mai Sheta</h1>
 
 ## 👩‍💻 About Me  
-- 🎓 Computer Science student at the Faculty of Computer and Information Science  
-- 📱 Passionate about **Flutter**, **Mobile Apps**, and **UI/UX**  
-- 🌱 Currently improving skills in **state management** and **responsive UI**  
+-🎓 Computer Science student at the Faculty of Computer and Information Science  
+-📱 Passionate about Mobile App Development and UI/UX Design  
+-🌱 Currently learning Flutter, Firebase, and improving UI/UX skills
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 📩 Connect with me:
 
-- 📧 [maixxxx@gmail.com](mailto:maysheta5@gmail.com)  
+- 📧 [maisheta5@gmail.com](mailto:maysheta5@gmail.com)  
 - 💼 [LinkedIn](www.linkedin.com/in/mai-sheta)  
 - 💬 [WhatsApp](https://wa.me/201143496764)  
 - 🐙 [GitHub](https://github.com/maisheta)
